@@ -7,6 +7,6 @@
 
 ![Vetorazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetorazzo&show_icons=true&theme=dark)
 
-[![Vetorazzo](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetorazzo&layout=donut&theme=dark)](https://github.com/Vetorazzo/github-readme-stats)
+[![Vetorazzo]()
 
 #### Tentando ser melhor!
