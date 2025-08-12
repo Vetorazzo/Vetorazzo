@@ -1,7 +1,7 @@
 # 💻João Pedro Vetorazzo Arantes
 
 ### 📝Sobre:
- #### Olá! Meu nome é João, tenho 20 anos e os meus interesses são: música, jogos, filmes e tecnologia. Estou estagiando na empresa 2RPnet e cursando a faculdade de ADS(Análise e Desenvolvimento de Sistemas) no Instituto Senai.
+ #### Olá! Meu nome é João, tenho 20 anos e os meus interesses são: música, jogos, filmes e tecnologia. Estou estagiando na empresa 2RPnet e cursando a faculdade de ADS (Análise e Desenvolvimento de Sistemas) no Instituto Senai.
 
 <br>
 
